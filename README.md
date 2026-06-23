@@ -52,8 +52,8 @@ It also detects **unknown faces (intruders)** and logs them instantly, making it
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/Smart-Attendance-System.git
-cd Smart-Attendance-System
+git clone https://github.com/areeshamaryam/Smart-Surveillance-And-Attendance-System.git
+cd Smart-Surveillance-And-Attendance-System
 ```
 
 ### 2. Create a virtual environment
