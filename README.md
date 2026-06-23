@@ -107,21 +107,35 @@ Smart-Attendance-System/
 
 ## Screenshots
 
-| Login | Dashboard | Live Attendance |
-|-------|-----------|-----------------|
-| <img src="screenshots/login.png" width="280"/> | <img src="screenshots/dashboard.png" width="280"/> | <img src="screenshots/attendance.png" width="280"/> |
+### Login
+![Login](screenshots/login.png)
 
-| Intruder Detection | Attendance Records | Register User |
-|--------------------|--------------------|---------------|
-| <img src="screenshots/intruderdetection.png" width="280"/> | <img src="screenshots/records.png" width="280"/> | <img src="screenshots/register.png" width="280"/> |
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
 
-| Register Step 2 | AI Report Agent | Settings |
-|-----------------|-----------------|----------|
-| <img src="screenshots/resister2.png" width="280"/> | <img src="screenshots/reportagent.png" width="280"/> | <img src="screenshots/settings.png" width="280"/> |
+### Live Attendance
+![Attendance](screenshots/attendance.png)
 
-| Batch Import |
-|-------------|
-| <img src="screenshots/finetune.png" width="280"/> |
+### Attendance Records
+![Records](screenshots/records.png)
+
+### Intruder Detection
+![Intruder Detection](screenshots/intruderdetection.png)
+
+### Register New User (Live Webcam Enrollment)
+![Register](screenshots/register.png)
+
+### Register Step 2
+![Register 2](screenshots/resister2.png)
+
+### AI Report Agent
+![Report Agent](screenshots/reportagent.png)
+
+### Batch Import / Fine Tune
+![Fine Tune](screenshots/finetune.png)
+
+### Settings
+![Settings](screenshots/settings.png)
 
 ---
 
