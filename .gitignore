@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+users.json
+embeddings.pkl
+attendance.csv
+intruders.json
+intruders.csv
+faces/
+webcam_captures/
+.venv/
+venv/
+venv310/
